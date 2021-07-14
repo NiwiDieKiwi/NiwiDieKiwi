@@ -5,8 +5,8 @@
 ---
 
 #### Languages
-![C#](https://img.shields.io/badge/-C%23-green?style=for-the-badge&logo=c-sharp)
-![WPF](https://img.shields.io/badge/-WPF-0C54C2?style=for-the-badge&logo=xaml)
+[![C#](https://img.shields.io/badge/-C%23-green?style=for-the-badge&logo=c-sharp)](https://dotnet.microsoft.com/)
+[![WPF](https://img.shields.io/badge/-WPF-0C54C2?style=for-the-badge&logo=xaml)](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/?view=netdesktop-5.0)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
 ---
 
